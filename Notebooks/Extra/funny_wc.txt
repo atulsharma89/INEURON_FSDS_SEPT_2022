@@ -1,0 +1,3 @@
+ word counts5I love PythonI love C++
+ word counts3I love PHP
+ word counts4I love java also
